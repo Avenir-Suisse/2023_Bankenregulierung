@@ -1,8 +1,8 @@
 #Avenir Suisse Blog: "Das digitalisierte Bankwesen in der Regulierungsspirale"
-#Date:
-#Link:
-#Authors: Laurenz Grabher, Lukas Schmid, Tim Schäfer, Jürg Müller
-#R-Script: Laurenz Grabher, Tim Schäfer
+#Date: 10.07.2023
+#Link: https://www.avenir-suisse.ch/das-digitalisierte-bankwesen-in-der-regulierungsspirale/
+#Authors: Laurenz Grabher, Lukas Schmid, Tim SchÃ¤fer, JÃ¼rg MÃ¼ller
+#R-Script: Laurenz Grabher, Tim SchÃ¤fer
 
 
 
